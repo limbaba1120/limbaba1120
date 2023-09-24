@@ -1,9 +1,5 @@
-<h2>limbaba</h2>
+<h2>⭐️ limbaba ⭐️</h2>
 <h3>🇰🇷 BackEnd Developer</h3>
-
-
-
-
 
 <h3>🧑‍💻 Technology Stack</h3>
 
