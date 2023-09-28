@@ -6,10 +6,11 @@
   <h3>🇰🇷 BackEnd Developer 🇰🇷</h3>
   
   <h3>🧑‍💻 Technology Stack 🧑‍💻</h3>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=Black"/>
+  
+<img src="https://img.shields.io/badge/JAVA-000000?style=flat&logo=java&logoColor=Black"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=Black"/>
+<img src="https://img.shields.io/badge/JPA-000000?style=flat&logo=&logoColor=Black"/>
 
   <h4>🛠️ Tools 🛠️</h4>
   
