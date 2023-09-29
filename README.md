@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/><img   
   src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=Intellij IDEA&logoColor=white"/> 
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limbaba1120&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limbaba1120&layout=compact"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=limbaba1120&show_icons=true">
  
 </div>
