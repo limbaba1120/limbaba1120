@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>limbaba</h2> 
+  <h2>Keonwoo Lim</h2> 
   
   <h3> 🇰🇷 BackEnd Developer 🇰🇷 </h3>
   
