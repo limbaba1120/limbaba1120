@@ -2,7 +2,7 @@
   <h2>Keonwoo Lim</h2> 
   
   <h3> 🇰🇷 BackEnd Developer 🇰🇷 </h3>
-  '열심히 하자'
+  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimbaba1120%2Fhit-counter&count_bg=%23191B18&title_bg=%23CF1717&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="mailto:kwlim1120ss@gmail.com">
