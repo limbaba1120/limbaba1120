@@ -25,9 +25,10 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/><img   
   src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=Intellij IDEA&logoColor=white"/> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limbaba1120&layout=compact"><br>
 
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limbaba1120&layout=compact"><br>
+![cartoon-629_256](https://github.com/limbaba1120/limbaba1120/assets/102224840/ebcaee40-dff0-4dc4-b051-6f89bfa18d4a)
+
 </div>
 
 
